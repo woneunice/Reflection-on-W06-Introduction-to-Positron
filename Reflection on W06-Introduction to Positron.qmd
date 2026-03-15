@@ -1,0 +1,114 @@
+---
+title: "Reflection on W06-Introduction to Positron"
+author: "Eunice Won"
+date: 'March 14, 2026'
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Reflection on W06 – Introduction to Positron
+
+## Introduction
+
+In this module, I learned how to use **Positron**, which is a new integrated development environment (IDE) designed for data science. Throughout the workshop videos, I practiced downloading Positron, setting up a project folder, navigating the interface, and exploring some of the AI tools that are built into the platform.
+
+------------------------------------------------------------------------
+
+## Essay Prompt 1
+
+### Prompt
+
+Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.
+
+### Response
+
+Downloaded and installed.
+
+## Essay Prompt 2
+
+### Prompt
+
+Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?
+
+### Response
+
+Based on the videos in Step 1 and Step 3, Positron seems like a combination of the best features from **RStudio** and **VS Code**.
+
+One thing I noticed is that Positron still includes many of the features that are familiar from RStudio. For example, it has a **console**, **plots pane**, **session variables**, and **help pane**. Because of this, it does not feel completely different for someone who already uses RStudio.
+
+At the same time, Positron has a more modern interface that is similar to VS Code. It includes an activity bar, extensions, and version control tools, which makes it more flexible for different types of projects.
+
+Another feature I liked is that Positron supports both **R and Python** in the same environment. In RStudio, the workflow is mainly focused on R, but Positron allows users to easily switch between languages. This is helpful because many data science projects involve multiple programming languages.
+
+The data viewer was also very useful. It allows users to explore datasets in a spreadsheet-style interface, filter data, sort columns, and inspect summary statistics. This makes it easier to quickly explore data without writing additional code right away.
+
+Overall, Positron feels like a more flexible and modern tool while still keeping the parts of RStudio that data scientists are already comfortable with.
+
+------------------------------------------------------------------------
+
+## Essay Prompt 3
+
+In Step 4, the video demonstrates how you can use AI. \### Prompt 3.1 Describe the various ways you can use AI inside Positron. Some are free while others are not.
+
+### Response
+
+In Positron, AI can help with different parts of the data science workflow. One example is Positron Assistant, which can help explain errors, suggest fixes, and generate code. It can also help improve plots or create tables. Another way AI is used is through inline suggestions, where you can place the cursor in your code and ask the assistant to improve or change something directly in the script.
+
+The video also showed an extension called Databot, which helps with exploratory data analysis. Databot can analyze a dataset, run code, create visualizations, and suggest patterns in the data. This can make it easier to explore new datasets and understand them faster.
+
+Some AI tools in Positron are free, while others may require an API key or subscription depending on the AI model that is connected.
+
+### Prompt 3.2
+
+Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?
+
+### Response
+
+For this assignment, I set up GitHub Copilot. Since students can apply for the GitHub Student Developer Pack, Copilot can be used for free with an education account.
+
+After trying it out, I found GitHub Copilot helpful because it suggests code while I am typing and helps complete parts of the script. This can save time when writing repetitive code or when I am unsure about the exact syntax.
+
+Overall, I think GitHub Copilot and Positron Assistant are the most beneficial. Copilot helps speed up coding, while Positron Assistant can help when fixing errors or improving code. These tools can make the coding process more efficient.
+
+### Prompt 3.3
+
+I strongly recommend using GitHub Copilot, which is free if you apply for an education account.
+
+#### Prompt 3.3.1
+
+Apply for it and take a screenshot showing you were accepted into the education program.
+
+##### Screenshot – APPROVED
+
+![](images/clipboard-226117465.png)
+
+#### Prompt 3.3.2
+
+Play with it and do you find it helpful or distracting? Please elaborate.
+
+##### Response
+
+After trying GitHub Copilot while writing code, I found it mostly helpful. It suggests code while I am typing and sometimes completes lines of code automatically. This can save time, especially when writing repetitive code or when I cannot remember the exact syntax.
+
+At the same time, I noticed that the suggestions are not always exactly what I want. Because of that, I still need to read the suggestions carefully before using them. Overall, I think Copilot is helpful because it can speed up coding, but it is still important to review the code and make sure it is correct.
+
+------------------------------------------------------------------------
+
+## Essay Prompt 4
+
+### Prompt
+
+Publish this report to GitHub Pages and provide a URL to the GitHub Pages for the report. Note that although both GitHub Pages and GitHub repo are online, they are different. GitHub Pages is a website publishing service that hosts the rendered HTML from a QMD file.
+
+### Response
+
+LINK:
